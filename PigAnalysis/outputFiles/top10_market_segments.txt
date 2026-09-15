@@ -1,0 +1,8 @@
+Online TA	56477
+Offline TA/TO	24219
+Groups	19811
+Direct	12606
+Corporate	5295
+Complementary	743
+Aviation	237
+Undefined	2

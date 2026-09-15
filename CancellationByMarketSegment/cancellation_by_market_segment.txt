@@ -1,0 +1,8 @@
+Online TA	20739
+Groups	12097
+Offline TA/TO	8311
+Direct	1934
+Corporate	992
+Complementary	97
+Aviation	52
+Undefined	2
